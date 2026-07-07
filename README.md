@@ -72,9 +72,11 @@ Download the `.deb` package:
 
 ```bash
 sudo apt install ./AGS-SDD_V2.0.deb
-Windows
+```
 
-Download the .exe installer and run it.
+## 🪟 Windows
+
+Download the `.exe` installer and run it.
 
 ---
 
