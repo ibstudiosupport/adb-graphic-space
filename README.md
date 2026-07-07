@@ -1,33 +1,102 @@
 # ⚡ ADB Graphic Space
 
-ADB Graphic Space is a modern graphical interface for Android Debug Bridge (ADB), built with Python and PyQt6.  
-It provides a clean UI for managing Android devices, installing apps, and executing ADB commands without using terminal directly.
+<p align="center">
+
+Android Device Management Tool based on ADB
+
+</p>
+
+
+## 📱 About
+
+ADB Graphic Space is a modern desktop application designed to simplify Android Debug Bridge (ADB) operations through an easy-to-use graphical interface.
+
+The project provides a clean workflow for device management, application control, diagnostics, and future Android maintenance tools.
+
 
 ---
 
-## 🚀 Features
+# ✨ Features
 
-- 📱 Device detection and live status
-- 📦 Install APK files
-- 🧠 Package finder (search apps)
-- 🗑️ Remove/uninstall applications
-- 🔧 System app management (systemize apps)
-- 🔌 Overlay permission handling
-- 💻 Built-in ADB terminal viewer
-- ⚡ Multi-threaded execution (no UI freeze)
-- 🎯 Clean and modern PyQt6 interface
+## Device Management
+
+- Device detection
+- Android information
+- ADB connection management
+
+
+## Application Management
+
+- APK installation
+- Package management
+- Application tools
+- Advanced management features
+
+
+## Tools
+
+- ADB command monitoring
+- Device diagnostics
+- Recovery assistance
+- Reports and logs
+
 
 ---
 
-## 📥 Download (Linux .deb)
+# 📥 Download
 
-You can download the latest stable release here:
+## Latest Version
 
-👉 **Direct Download:**
+Download the latest release from GitHub Releases:
 
-https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V1.0/AGS-SDD_V1.0.deb
+🔗 Releases:
+https://github.com/ibstudiosupport/adb-graphic-space/releases
 
-After downloading deb file, install it using:
+
+Available platforms:
+
+| Platform | Download |
+|---|---|
+| Linux | `.deb` |
+| Windows | `.exe` |
+
+Exe file coming soon...
+
+---
+
+# 🖼 Screenshots
+
+(Add application screenshots here)
+
+
+---
+
+# 🚀 Installation
+
+## Linux
+
+Download the `.deb` package:
 
 ```bash
-sudo apt install ./AGS-SDD_V1.0.deb
+sudo apt install ./AGS-SDD_V2.0.deb
+Windows
+
+Download the .exe installer and run it.
+
+👨‍💻 Developer
+
+Igor Brat
+
+IB Studio Support
+
+Email:
+IB.studio.support@gmail.com
+
+GitHub:
+https://github.com/ibstudiosupport
+
+📄 License
+
+Private software project.
+
+Releases are provided through GitHub.
