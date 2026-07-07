@@ -76,7 +76,9 @@ Windows
 
 Download the .exe installer and run it.
 
-👨‍💻 Developer
+---
+
+# 👨‍💻 Developer
 
 Igor Brat
 
