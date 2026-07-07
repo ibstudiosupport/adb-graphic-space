@@ -64,13 +64,6 @@ Exe file coming soon...
 
 ---
 
-# 🖼 Screenshots
-
-(Add application screenshots here)
-
-
----
-
 # 🚀 Installation
 
 ## Linux
