@@ -53,14 +53,34 @@ Download the latest release from GitHub Releases:
 https://github.com/ibstudiosupport/adb-graphic-space/releases
 
 
-Available platforms:
+<div align=left>
+<table>
+    <thead align=left>
+        <tr>
+            <th>OS</th>
+            <th>Download</th>
+        </tr>
+    </thead>
+    <tbody align=left>
+        </tr>
+        <tr>
+            <td>Windows</td>
+            <td>
+                <a href="">coming soon...<img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
+                <a href="">coming soon...<img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>Linux</td>
+            <td>
+                <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V3.0/AGS-SDD_V3.0.deb"><img src="https://img.shields.io/badge/DebPackage-x64-FF9966.svg?logo=debian"> </a><br>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-| Platform | Download |
-|---|---|
-| Linux | `AGS-SDD.deb` |
-| Windows | `.exe` |
 
-Exe file coming soon...
+</div>
 
 ---
 
