@@ -57,7 +57,7 @@ Available platforms:
 
 | Platform | Download |
 |---|---|
-| Linux | `.deb` |
+| Linux | `AGS-SDD.deb` |
 | Windows | `.exe` |
 
 Exe file coming soon...
