@@ -74,6 +74,7 @@ https://github.com/ibstudiosupport/adb-graphic-space/releases
             <td>Linux</td>
             <td>
                 <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V3.0/AGS-SDD_V3.0.deb"><img src="https://img.shields.io/badge/DebPackage-x64-FF9966.svg?logo=debian"> </a><br>
+                <a href="">coming soon...<img src="https://img.shields.io/badge/AppImage-x64-f84e29.svg?logo=linux"> </a><br>
             </td>
         </tr>
     </tbody>
