@@ -98,7 +98,7 @@ sudo apt install ./AGS-SDD_V4.0.deb
 Download the `.Appimage` package:
 
 ```bash
-sudo chmod +x AGS-SDD_V4.0.appimage
+chmod +x AGS-SDD_V4.0.appimage
 ./AGS-SDD_V4.0.appimage
 ```
 ## 🪟 Windows
