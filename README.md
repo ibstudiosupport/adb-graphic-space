@@ -68,8 +68,7 @@ https://github.com/ibstudiosupport/adb-graphic-space/releases
             <td>
                 <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V4.0/AGS-SDD_v4.0-Setup.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
                 <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V4.0/AGS-SDD_v4.0-Portable.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
-                <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V4.0/platform-tools-latest-windows.zip"><img src="https://img.shields.io/badge/ADB-Platfoorm_tools-green
-"></a>
+                <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V4.0/platform-tools-latest-windows.zip"><img src="https://img.shields.io/badge/ADB-Platfoorm_tools-green"></a>
             </td>
         </tr>
         <tr>
@@ -94,12 +93,19 @@ https://github.com/ibstudiosupport/adb-graphic-space/releases
 Download the `.deb` package:
 
 ```bash
-sudo apt install ./AGS-SDD_V2.0.deb
+sudo apt install ./AGS-SDD_V4.0.deb
 ```
+Download the `.Appimage` package:
 
+```bash
+sudo chmod +x AGS-SDD_V4.0.appimage
+./AGS-SDD_V4.0.appimage
+```
 ## 🪟 Windows
 
 Download the `.exe` installer and run it.
+
+Download the `.zip` and extract it then run `.exe`.
 
 ---
 
