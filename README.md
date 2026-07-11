@@ -67,7 +67,7 @@ https://github.com/ibstudiosupport/adb-graphic-space/releases
             <td>Windows</td>
             <td>
                 <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V4.0/AGS-SDD_v4.0-Setup.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
-                <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V4.0/AGS-SDD_v4.0-Portable.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+                <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V4.0/AGS-SDD_v4.0-Portable.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a><br>
                 <a href="https://github.com/ibstudiosupport/adb-graphic-space/releases/download/V4.0/platform-tools-latest-windows.zip"><img src="https://img.shields.io/badge/ADB-Platfoorm_tools-green"></a>
             </td>
         </tr>
